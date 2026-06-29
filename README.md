@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anjali Indalkar!
 
 <p align="left">
-  <img src="https://github.com/anjaliindalkar-max)" alt="Profile Views" />
+  <img src="https://github.com/anjaliindalkar-max" alt="Profile Views" />
 </p>
 
 ### 🚀 B.Sc Computer Science Student | Aspiring Software Developer
