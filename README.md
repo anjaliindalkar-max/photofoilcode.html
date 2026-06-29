@@ -13,9 +13,9 @@ I am a passionate technology student focused on building responsive web applicat
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | ![Python](https://shields.io) ![Java](https://shields.io) ![C](https://shields.io) ![C++](https://shields.io) |
-| **Frontend** | ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![React](https://shields.io) |
-| **Backend & DB** | ![Node.js](https://shields.io) ![MySQL](https://shields.io) ![MongoDB](https://shields.io) |
+| **Languages** | ![Python] ![Java] ![C] ![C++] |
+| **Frontend** | ![HTML5] ![CSS3] ![JavaScript] ![React] |
+| **Backend & DB** | ![Node.js] ![MySQL] ![MongoDB] |
 | **Core Concepts**| Data Structures & Algorithms (DSA) • Object-Oriented Programming (OOP) • DBMS |
 
 ---
@@ -54,4 +54,4 @@ I am a passionate technology student focused on building responsive web applicat
 
 *   **📍 Location:** Panvel, Maharashtra, India
 *   **📧 Email:** anjaliindalkar@gmail.com
-*   **💼 LinkedIn:** [Anjali Indalkar](https://linkedin.com)
+*   **💼 LinkedIn:** [Anjali Indalkar](www.linkedin.com/in/anjali-indalkar-2380993aa)
