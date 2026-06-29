@@ -25,7 +25,7 @@ I am a passionate technology student focused on building responsive web applicat
 *   **⚡ Electricity Bill Calculator**
     *   *Tech:* Java
     *   *Description:* Computes household electricity bills using automated slab-wise commercial billing logic.
-    *   🔗 [View Repository](https://github.com)
+    *   🔗 [View Repository](https://github.com/anjaliindalkar-max/Image-gallery-))
 *   **🤖 College Inquiry Chatbot**
     *   *Tech:* Python, AI Frameworks
     *   *Description:* An intelligent chatbot engine built to answer university-related queries instantly.
@@ -34,11 +34,6 @@ I am a passionate technology student focused on building responsive web applicat
     *   *Tech:* Python
     *   *Description:* Recommends films and custom media streams tailored directly to explicit user interests.
     *   🔗 [View Repository](https://github.com)
-*   **🌐 3D Portfolio Website**
-    *   *Tech:* React.js, WebGL
-    *   *Description:* A fully interactive, immersive three-dimensional spatial showcase to host my digital works.
-    *   🔗 [View Repository](https://github.com)
-
 ---
 
 ### 📊 GitHub Stats
