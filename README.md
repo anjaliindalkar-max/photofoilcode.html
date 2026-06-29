@@ -46,8 +46,8 @@ I am a passionate technology student focused on building responsive web applicat
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://vercel.app" alt="Anjali's GitHub Stats" width="400"/>
-  <img src="https://vercel.app" alt="Top Languages" width="300"/>
+  <img src="https://vercel.app" alt="https://github.com/anjaliindalkar-max"" width="400"/>
+ 
 </p>
 
 ---
