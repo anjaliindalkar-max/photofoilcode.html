@@ -13,10 +13,10 @@ I am a passionate technology student focused on building responsive web applicat
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | ![Python] |  ![Java] | ![C]         | ![C++] |
-| **Frontend**  | ![HTML5]  | ![CSS3]  |  ![JavaScript]   |  ![React] |
-| **Backend & DB** | ![Node.js]  |   ![MySQL]  |   ![MongoDB] |
-| **Core Concepts**| Data Structures & Algorithms (DSA) | • Object-Oriented Programming (OOP) • DBMS |
+| **Languages** | ![Python] •  ![Java]  ![C]      ![C++] |
+| **Frontend**  | ![HTML5]   ![CSS3]    ![JavaScript]    ![React] |
+| **Backend & DB** | ![Node.js]   ![MySQL]     ![MongoDB] |
+| **Core Concepts**| Data Structures & Algorithms (DSA)  • Object-Oriented Programming (OOP) • DBMS |
 
 ---
 
